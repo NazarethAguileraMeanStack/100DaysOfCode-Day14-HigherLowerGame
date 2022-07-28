@@ -1,0 +1,23 @@
+{
+  "name": "100daysofcode-day14-higherlowergame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazarethAguileraMeanStack/100DaysOfCode-Day14-HigherLowerGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazarethAguileraMeanStack/100DaysOfCode-Day14-HigherLowerGame/issues"
+  },
+  "homepage": "https://github.com/NazarethAguileraMeanStack/100DaysOfCode-Day14-HigherLowerGame#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
